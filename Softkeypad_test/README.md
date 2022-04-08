@@ -1,0 +1,2 @@
+This program was originally written by Wayne Chu. The orginal program displays the word 'SCAn" on the 7-segment LED display, scans the keypad and displays the key number on the 4 7-segment LED displays if a key is down. 
+The program was modified to displays the word 'HELP" on the 7-segment LED display, scans the keypad and displays the pushed key number on the rightmost 7-segment display only, while the other three 7-segment displays remain blank blanked.

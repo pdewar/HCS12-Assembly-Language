@@ -1,0 +1,1 @@
+The program lights up all 8 LEDs one by one consecutively.
